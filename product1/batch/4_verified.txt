@@ -1,0 +1,2 @@
+mariam;20190518;cs,os,sw1,programming1
+menna;20190558;english,arabic,os,cs

@@ -1,1 +1,3 @@
 menna;20190558;english,arabic,os,cs
+sayed;20190253;os,sw2,algorithms
+ibrahim;20190008;os,sw2,programming2,ml
